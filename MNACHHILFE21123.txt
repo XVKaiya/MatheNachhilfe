@@ -1,0 +1,59 @@
+1.)
+		x * 7 + 10
+VEREINFACHEN:   7x + 10 = 9x 		|-7x
+		10 = 2x			|:2
+		x  = 5
+
+2.)
+		x * 8 - 12 = 60		|
+VEREINFACHEN:	8x - 12 = 60		|+12
+		8x = 72			|:8
+		x  =  9
+
+3.)
+		x : 3 = 18 - 7
+VEREINFACHEN:	x : 3 = 11		|*3
+		x     = 33
+
+4.)
+		
+		-7x - 44 = 47 		|+44
+		-7x      = 91		|:-7
+		  x      =-13
+
+5.)		
+		7x - x = 32
+		6x     = 32		|:6
+		x      = 04
+		
+6.)
+		x = 200 		|:20
+		x = 10
+
+7.)						# Hab ab hier aufgehört, permanent die Rechenstriche zu platzieren. (Werde ich in der Arbeit natürlich nicht machen!)
+		x + (x + 1) = 79
+		2x + 1      = 79
+		2x          = 78
+		x 	    = 39
+
+8.)		
+		x + (x + 1) + (x + 2) = 138
+		3x  		  + 3 = 138
+		x                     = 44
+UND : 		x                 + 2 = 46
+UND :		x                 + 1 = 45
+
+9.)		
+		x + (x + 7) = 357
+		2x + 7      = 357
+		2x 	    = 350
+		x           = 175
+ZWEITE		
+SIEBENERZAHL:	x + 7       = 175 + 7 = 182
+
+10.)
+		5x + 5(x + 1) + 5(x + 2) = 135	
+		15x + 15 = 135
+		15x = 120
+		x = 8
+ZAHLEN:		40 , 45 UND 50
